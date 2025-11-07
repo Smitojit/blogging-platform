@@ -30,6 +30,30 @@ A fully functional blogging platform built using **Node.js**, **Express.js**, an
 
 ## ⚙️ Installation and Setup
 
+## ⚙️ Installation and Setup
+
 1. **Clone the repository**
-   ```bash
+   ```bash                
    git clone https://github.com/Smitojit/blogging-platform.git
+   ```                    
+
+2. **Navigate into the project folder**
+   ```bash
+   cd blogging-platform
+   ```
+
+3. **Install dependencies**
+   ```bash
+   npm install
+   ```
+
+4. **Run the project**
+   ```bash
+   node server.js
+   ```
+
+5. **Open in browser**
+   ```
+   http://localhost:3000
+   ```
+
