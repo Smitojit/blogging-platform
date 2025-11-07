@@ -1,0 +1,35 @@
+# Blogging Platform 📝
+
+A fully functional blogging platform built using **Node.js**, **Express.js**, and **MongoDB**, designed to create, edit, and manage blog posts seamlessly.
+
+---
+
+## 🗓️ Project Duration
+**October 2025 – November 2025**
+
+---
+
+## 🚀 Features
+- ✍️ Create, update, and delete blog posts (Full CRUD functionality)
+- 🔐 Secure authentication using **JWT**
+- 🗄️ Data stored and managed through **MongoDB** with **Mongoose**
+- 🧩 Clean MVC architecture (Models, Routes, Controllers)
+- 🧪 Tested endpoints using **Postman**
+- 📁 Well-structured backend project folder organization
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** JavaScript  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB, Mongoose  
+- **Authentication:** JSON Web Token (JWT)  
+- **Tools:** Postman, Git, GitHub, VS Code  
+
+---
+
+## ⚙️ Installation and Setup
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Smitojit/blogging-platform.git
